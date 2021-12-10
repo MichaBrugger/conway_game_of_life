@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-I started looking into Cellular Automata and Genetic Algorithms and thought recreating Conway's Game might be a good start to get to try out the absolute basics.
+I started looking into Cellular Automata and Genetic Algorithms and thought recreating Conway's Game might be a good start to try out some basics.
 
 ## What is Conway's Game of Life?
 
@@ -8,7 +8,7 @@ Conway's Game of Life is a Cellular Automaton (basically a grid of cells that, i
 
 ## What are the rules?
 
-I snacked the rules straight from Wikipedia, but if you'd liek to know more, there is a plethora of really interesting sources (I linked some I liked below). That being said, the rules of the game are pretty simple:
+I snacked the rules straight from Wikipedia, but if you'd like to know more, there is a plethora of really interesting sources (I linked a few I liked below). That being said, back to the rules, which happen to be pretty simple:
 
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 - Any live cell with two or three live neighbours lives on to the next generation.
@@ -16,7 +16,7 @@ I snacked the rules straight from Wikipedia, but if you'd liek to know more, the
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 
-It's honestly pretty fascinating to see how from such a simple set, very complex structures can evolve.
+It's honestly pretty fascinating to see how from such a simple set of rules, pretty complex structures and patterns can evolve.
 
 
 ## Sources
